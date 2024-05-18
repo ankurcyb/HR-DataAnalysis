@@ -50,6 +50,11 @@ In other words a measure is basically a variable that we will be creating in ord
 10. Quck HR dashboard
 
 
+# HR DashBoard Overview
+
+  ![image](https://github.com/ankurcyb/HR-DataAnalysis/assets/141453942/79d9a877-ed6d-4c1b-b5f7-6775ecb8bd90)
+
+
 # Process
 
 1.  First step is to load our HR data in to POWER BI
