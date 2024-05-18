@@ -4,7 +4,7 @@ Data Analysis of HR Data Using Power BI on Sample Raw Data from an Excel Sheet
 I will perform data analysis on the provided data, create visualizations based on the schema, and document the analysis results.
 
 
-## common Power BI terms
+## Common Power BI terms
 
 Measure:
 A measure is a dynamic calculation used to analyze and aggregate data. Measures are created using Data Analysis Expressions (DAX), a formula language for creating custom calculations in Power BI, Excel, and other data analysis tools. Measures are typically used to calculate sums, averages, minimum or maximum values, counts, or more complex calculations that can't be directly achieved with simple aggregation functions.
