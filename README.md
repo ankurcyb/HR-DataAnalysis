@@ -1,7 +1,6 @@
 # Data Analysis of HR data using Power BI
 
-Data Analysis of HR Data Using Power BI on Sample Raw Data from an Excel Sheet
-I will perform data analysis on the provided data, create visualizations based on the schema, and document the analysis results.
+This project aims to analyze HR data using Power BI, transforming sample raw data from an Excel sheet into meaningful insights through data analysis and visualizations. The results of the analysis are documented for comprehensive understanding
 
 
 ## Common Power BI terms
