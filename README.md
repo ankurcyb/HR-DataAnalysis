@@ -38,8 +38,8 @@ In other words a measure is basically a variable that we will be creating in ord
 ## Types on Analysis, I will be performing on sample data :
 
 1. How many people are in each job?
-2. Gender Break down of the stagg
-3. Age spread of the stagg
+2. Gender Break down of the staff
+3. Age spread of the staff
 4. Which jobs pay more?
 5. Top earner in each job
 6. Qualification versus salary
